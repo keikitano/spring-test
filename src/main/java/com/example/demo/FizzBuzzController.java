@@ -30,7 +30,7 @@ public class FizzBuzzController {
 			result += "Ass";
 		} 
 		else {
-			result += "Nissy";
+			result += "Nissy!!";
 		}
 
 		// 結果を設定
